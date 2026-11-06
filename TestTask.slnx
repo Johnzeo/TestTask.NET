@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="TestTask.Api/TestTask.Api.csproj" />
+  <Project Path="TestTask.Core/TestTask.Core.csproj" />
+  <Project Path="TestTask.Infrastructure/TestTask.Infrastructure.csproj" />
+  <Project Path="TestTask.Recorder/TestTask.Recorder.csproj" />
+</Solution>
